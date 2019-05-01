@@ -3,7 +3,7 @@ layout: single
 title: A Fresh Start
 date: 2019-05-01 03:34 -0600
 image-from: https://pixabay.com/photos/vintage-typewriter-plant-book-2168174/
-excerpt: My latest attempt at blogging...
+excerpt: Why I chose to use Jekyll and Github Pages for my new blog.
 tags: writing jekyll
 header:
   overlay_image: /assets/images/vintage-2168174_1280.jpg
@@ -20,7 +20,7 @@ I have decided to take a fresh start with my website and have been exploring all
 5. *Easy to maintain*. I don't have a ton of time to fidget with a website. I don't want to manage and patch my own web servers and software. The easier to maintain, the better.
 6. *Provides a learning experience*. I enjoy things most when I'm learning something new along the way.
 
-The solution I landed on is to is to use Github Pages with Jekyll. This meets all of my requirements.
+The solution I landed on is to is to use [Github Pages](https://pages.github.com) with [Jekyll](https://jekyllrb.com). This meets all of my requirements.
 
 ||Requirement|Evaluation|
 |----|----|----|
