@@ -2,6 +2,14 @@
 layout: single
 title: A Fresh Start
 date: 2019-05-01 03:34 -0600
+image-from: https://pixabay.com/photos/vintage-typewriter-plant-book-2168174/
+excerpt: My latest attempt at blogging...
+tags: writing jekyll
+header:
+  overlay_image: /assets/images/vintage-2168174_1280.jpg
+  overlay_filter: 0.5
+  caption: Image by <a href="https://pixabay.com/users/AnnieSpratt-4900708/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2168174">Annie Spratt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2168174">Pixabay</a>
+  og_image: /assets/images/vintage-2168174_1280.jpg
 ---
 I have decided to take a fresh start with my website and have been exploring all sorts of different options for website design, website creation, and website hosting. My main requirements for my site included:
 
