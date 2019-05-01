@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: single
 title: A Fresh Start
 date: 2019-05-01 03:34 -0600
 ---
-I have decided to take a fresh start with my website. I've been exploring all sorts of different options for website design, website creation, and website hosting. My main requirements for this included:
+I have decided to take a fresh start with my website and have been exploring all sorts of different options for website design, website creation, and website hosting. My main requirements for my site included:
 
 1. *Low cost*. This needs to be inexpensive as this is a personal website, not a commercial endeavor.
 2. *Keep my own domain name*. I've had this jimmyzimmerman.com domain for a long time and I'd like to keep using it.
