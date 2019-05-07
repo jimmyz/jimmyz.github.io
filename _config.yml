@@ -85,6 +85,28 @@ defaults:
       layout: single
       author_profile: true
 
+
+jekyll_compose:
+  draft_default_front_matter:
+    layout: single
+    excerpt: 
+    category:
+    tags:
+    image-from: https://pixabay.com/...
+    header:
+      overlay_image: /assets/images/posts/
+      overlay_filter: 0.5
+      caption: 
+      og_image: /assets/images/posts/
+  post_default_front_matter:
+    description:
+    image:
+    category:
+    tags:
+    published: false
+    sitemap: false
+
+
 category_archive:
   type: liquid
   path: /categories/
