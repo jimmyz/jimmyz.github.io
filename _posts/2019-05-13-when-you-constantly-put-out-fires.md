@@ -1,7 +1,7 @@
 ---
 layout: single
 title: When you constantly put out fires
-excerpt: Sometimes it is better to let the fires burn, create a strategic plan, and
+excerpt: Sometimes it is better to let the fires burn, to create a strategic plan, and
   to rebuild.
 category: Business
 tags: management programs
@@ -24,6 +24,6 @@ Every tactical measure I could think to employ was failing. We just couldn't kee
 
 It was about this time that I realized that we needed to take a step back and reevaluate the entire program. Real changes needed to take place. We needed to move to a place where we were working on supported technology. We needed systems that the department could support. We needed to simplify the operations. We needed to standardize. Most importantly, we needed to take a deep look at the purpose of the program and design a system that could fulfill the purpose.
 
-Communicating to the customers that we had to stop supporting the old system was really hard. It is hard to disappoint people. I'm sure I could have done a better job on this front, but we did our best to communicate where we are ultimately headed and why change was necessary. They had to hold on for a significant time while we rebuilt. It was hard.
+Communicating with the customers that we had to stop supporting the old system was really hard. Nobody likes to disappoint people. I'm sure we could have done a better job at this, but we did our best to communicate where we were ultimately headed and why change was necessary. They had to endure for a significant time while we rebuilt. This was a hard pill for them to swallow.
 
 My team has worked on this new system for several years now. We haven't reached a point where we are satisfied with the new program offering, but we have a plan on how to get to the next step and then to the next. The good news is that the new system is stable. We're not constantly fighting fires anymore. We've been able to standardize. We're able to work on forward looking solutions. This is a much better place to be in.
