@@ -26,6 +26,7 @@ Some factors to consider in evaluating WIIFMs include:
 - Does the benefit achieved on both sides outweigh the risks?
 - Do both parties share similar values?
 - Is the other party a trustworthy organization?
-- How will this partnership affect other existing or potential partnerships?
+- Will this partnership enable us to honor existing partner agreements?
+- Does the partnership keep us free to partner with other organizations?
 
 When these factors align, things will move much better *after* the honeymoon phase of a partnership. Negotiations are often difficult, but most of the real investment in a partnership comes after an agreement is reached. Therefore, it is critical to get this stuff right up front.
