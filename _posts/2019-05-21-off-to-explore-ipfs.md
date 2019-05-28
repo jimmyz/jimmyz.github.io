@@ -12,4 +12,4 @@ header:
   og_image: "/assets/images/posts/IPFS_logo.png"
 date: 2019-05-21 08:02 -0600
 ---
-I may not be writing as much here on my blog because I'm going to spend my morning writing hours exploring IPFS and its related protocols and standards. I plan to write some code to take advantage of the protocols to see if I can build a working prototype.
+I may not be writing as much here on my blog because I'm going to spend my morning writing hours exploring [IPFS](https://ipfs.io$$) and its related protocols and standards. I plan to write some code to take advantage of the protocols to see if I can build a working prototype.
