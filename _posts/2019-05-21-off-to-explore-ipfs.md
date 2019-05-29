@@ -3,7 +3,7 @@ layout: single
 title: Off to Explore IPFS
 excerpt: Why you may not see a post for a while.
 category: Technology
-tags: distributed-web
+tags: distributed-web ipfs
 image-from: IPFS Logo from Wikipedia
 header:
   overlay_image: "/assets/images/posts/IPFS_logo.png"
