@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jimmyzimmerman
 github_username:  jimmyz
 minimal_mistakes_skin: default
+comments: true
 # search: true
 
 
