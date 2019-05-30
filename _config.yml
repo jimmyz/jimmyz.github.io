@@ -22,9 +22,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jimmyzimmerman
 github_username:  jimmyz
 minimal_mistakes_skin: default
-comments: true
 # search: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "jimmyzimmerman-com"
 
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.16.2"
