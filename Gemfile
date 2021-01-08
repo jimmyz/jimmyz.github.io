@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 3.8.5"
+# gem "jekyll", "~> 4.2.0"
 
 # Update to use the minimal mistakes theme
 gem "minimal-mistakes-jekyll"
@@ -21,6 +21,7 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed"
+  gem "jekyll-include-cache"
 end
 
