@@ -4,8 +4,8 @@ title: Fun with Raspberry Pi
 excerpt: 
 tags: technology linux raspberry-pi
 category: Life
+date: 2021-01-11 12:46 -0700
 ---
-
 In this post, I'm going to share what led me to diving into Raspberry Pi and what I've discovered so far.
 
 A week ago, our 27" iMac began having problems. I've narrowed down through various troubleshooting techniques that there must be some sort of hardware problem. So, it is time to buy a new computer. The order is in, but Apple is backordered on almost ever Mac computer and it will take several weeks until we get the new one.
